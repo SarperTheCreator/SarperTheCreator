@@ -89,9 +89,25 @@
 
 ---
 
+### 🐍 Contribution Snake (updates daily)
+
 <p align="center">
-  <i>"Every great project starts with a single line."</i>
+  <img src="https://raw.githubusercontent.com/SarperTheCreator/SarperTheCreator/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </p>
+
+---
+
+### 💬 Quote of the Day
+<!--START_SECTION:quote-->
+"Every great project starts with a single line."
+<!--END_SECTION:quote-->
+
+---
+
+### 🕒 Last Updated
+<!--START_SECTION:timestamp-->
+This profile was last auto-updated on: `pending first run`
+<!--END_SECTION:timestamp-->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
