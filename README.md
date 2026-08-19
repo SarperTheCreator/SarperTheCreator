@@ -1,65 +1,133 @@
-<h1 align="center">Hi there, I'm Sarper 👋</h1>
+<div align="center">
 
-<h3 align="center">Building things with code, one project at a time.</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Sarper%20The%20Creator&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Turning%20ideas%20into%20code%2C%20one%20project%20at%20a%20time&descAlignY=52&descSize=18" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Python+Developer;Language+Design+Enthusiast;Building+Fun+Little+Tools;Always+Learning+Something+New" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A970FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Python+Developer+%F0%9F%90%8D;Language+%26+Interpreter+Design;Building+Fun%2C+Self-Contained+Tools" />
 
----
+<br>
 
-### 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=SarperTheCreator&label=Profile%20Views&color=a970ff&style=for-the-badge" />
+<a href="https://github.com/SarperTheCreator?tab=repositories"><img src="https://img.shields.io/badge/Repos-7-a970ff?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Status-Working%20From%20Home-a970ff?style=for-the-badge&logo=googlehome&logoColor=white" />
 
-- 🏠 Working from home
-- 🛠️ I like building small, self-contained tools — interpreters, CLIs, generators, and dashboards
-- 🐍 Mostly working in **Python**, with some **JavaScript/CSS** for web-based projects
-- 🌱 Currently exploring language design and interpreter construction
-- 💬 Ask me about Python scripting, small language design, or front-end mini-projects
+</div>
 
----
+<br>
 
-### 🔭 Featured Projects
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-| Project | Description |
-|---|---|
-| 🗣️ [**velox-lang**](https://github.com/SarperTheCreator/velox-lang) | A tiny interpreter written from scratch in Python, featuring Turkish keywords, a custom lexer/parser/AST pipeline, and an interactive REPL. |
-| ⏱️ [**focus-cli**](https://github.com/SarperTheCreator/focus-cli) | A command-line focus/productivity tool built in Python. |
-| 📊 [**focus-dashboard**](https://github.com/SarperTheCreator/focus-dashboard) | A dashboard companion for tracking focus and productivity. |
-| 🔐 [**Password-Generator**](https://github.com/SarperTheCreator/Password-Generator) | A sleek, secure, responsive password generator with customizable criteria and real-time strength indication. |
-| 🎨 [**Pixel-Art-Generator**](https://github.com/SarperTheCreator/Pixel-Art-Generator) | A dynamic, responsive pixel art tool with grid customization and multi-device (mouse & touch) support. |
-| 🌦️ [**Weather-App**](https://github.com/SarperTheCreator/Weather-App) | A beautiful weather app using the OpenWeatherMap API, with smooth Flexbox and keyframe animations. |
+## 🚀 &nbsp;About Me
 
----
+```yaml
+name: Sarper
+role: Developer & Creator
+focus: [Python, Language Design, Web Tools]
+currently_building: velox-lang — a custom interpreter with Turkish keywords
+fun_fact: I enjoy turning small ideas into polished, working tools
+```
 
-### 🧰 Tech Stack
+<br>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+## 🧠 &nbsp;Featured Work
 
----
+<table align="center">
+<tr>
+<td width="50%">
 
-### 📊 GitHub Stats
+### 🗣️ [velox-lang](https://github.com/SarperTheCreator/velox-lang)
+A tiny interpreter written from scratch in Python — custom lexer, parser, AST pipeline, Turkish keywords, and an interactive REPL.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SarperTheCreator&show_icons=true&theme=radical&hide_title=false" alt="SarperTheCreator's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarperTheCreator&theme=radical" alt="SarperTheCreator's streak stats" width="48%" />
-</p>
+**`Python`** `·` **Language Design**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarperTheCreator&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</td>
+<td width="50%">
 
----
+### 🔐 [Password Generator](https://github.com/SarperTheCreator/Password-Generator)
+A sleek, secure, responsive password generator with customizable rules and real-time strength feedback.
 
-### 📫 Connect with Me
+**`HTML`** `·` **`CSS`** `·` **`JavaScript`**
 
-<p align="left">
-  <a href="https://github.com/SarperTheCreator"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos and reach out!</i></p>
+### 🎨 [Pixel Art Generator](https://github.com/SarperTheCreator/Pixel-Art-Generator)
+A responsive pixel art canvas with grid customization and full mouse/touch support.
+
+**`JavaScript`** `·` **Creative Coding**
+
+</td>
+<td width="50%">
+
+### 🌦️ [Weather App](https://github.com/SarperTheCreator/Weather-App)
+A beautiful weather app powered by the OpenWeatherMap API, with smooth Flexbox animations.
+
+**`CSS`** `·` **API Integration**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⏱️ [focus-cli](https://github.com/SarperTheCreator/focus-cli)
+A command-line productivity & focus-tracking tool.
+
+**`Python`** `·` **CLI**
+
+</td>
+<td width="50%">
+
+### 📊 [focus-dashboard](https://github.com/SarperTheCreator/focus-dashboard)
+A visual dashboard companion for tracking focus sessions.
+
+**`CSS`** `·` **Dashboards**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 🛠️ &nbsp;Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,linux&theme=dark" />
+
+</div>
+
+<br>
+
+## 📊 &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SarperTheCreator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a970ff&icon_color=a970ff&text_color=c9d1d9" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SarperTheCreator&theme=tokyonight&hide_border=true&background=0d1117&ring=a970ff&fire=a970ff&currStreakLabel=a970ff" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarperTheCreator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a970ff&text_color=c9d1d9" height="165" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SarperTheCreator&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a970ff&line=a970ff&point=ffffff" width="95%" />
+
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 📫 &nbsp;Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/SarperTheCreator"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+<i>⭐ From <a href="https://github.com/SarperTheCreator">SarperTheCreator</a> — thanks for visiting!</i>
+
+</div>
